@@ -39,7 +39,7 @@
 &nbsp;
 
 ## 🛠️ 시스템 아키텍처
-![Lemon_시스템아키텍처](/uploads/a64d338e6a39c4bab82c95fcd30e27c8/Lemon_시스템아키텍처.png)
+[![Lemon_시스템아키텍처](/uploads/a64d338e6a39c4bab82c95fcd30e27c8/Lemon_시스템아키텍처.png)](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/3de8abe0-96ce-4475-a1b3-af0a73964254)
 
 &nbsp;
 
