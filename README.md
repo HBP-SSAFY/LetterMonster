@@ -21,7 +21,8 @@
 &nbsp;
 
 ## **💑 멤버 소개**
-![멤버소개](/uploads/630734f8c3cf6b29d55afba698137156/멤버소개.jpg)
+![멤버소개](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c9c525df-2545-41ef-9ccb-4440ad057f62)
+
 
 &nbsp;
 
@@ -45,81 +46,81 @@
 
 
 ## 📈 ERD
-![ERD](/uploads/ec0320e2f34d55fd3972f60f7d34439e/ERD.png){: width="70%" height="70%"}
+![ERD](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/7c4a6270-df3e-4150-abd1-c07437ca3dd4){: width="70%" height="70%"}
 &nbsp;
 
 ## **🧾 기능 소개**
 ### 카카오, 라인 로그인
 <p align="center">
-<img src="/uploads/79f73f6eebddf14fe3066b8a9fbe54bd/카카오로그인.gif" width="30%" height="30%"/>
-<img src="/uploads/0898a791903f41df14cc4bf8cee1acab/라인로그인.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0272ee20-16ec-4947-9e54-50a2adf5ed2e" width="30%" height="30%"/>
+<img src="\https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/bf34aae3-0eeb-4617-8b5f-dcfb912f9c34" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 캐릭터 그리기
 <p align="center">
-<img src="/uploads/f2c91491460eda8f994451f787344149/캐릭터_그리기.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/6d97647e-8ec2-4f6b-a428-e740849d34ac" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 편지 작성
 <p align="center">
-<img src="/uploads/ca586adc4a37b955385c3c18ce93d238/편지쓰기.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/b9caf6ec-7da0-4867-87ad-1938914a30d2" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 편지 확인
 <p align="center">
-<img src="/uploads/79283761dde13592c5c4848d8356f67d/보낸_편지_확인.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0eaed0e9-709c-40f1-9b09-dc0fe28d4702" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 비회원 편지 작성
 <p align="center">
-<img src="/uploads/c07bae67525e1684ac32ddca9d582d3e/비회원이_편지_남기기.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/36c6c5cc-9ca9-48fe-82a6-ee01134b7a03" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 답장하기
 <p align="center">
-<img src="/uploads/0d150ba32b3ee975ba6a5844aa3a5df3/답장하기.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/d32b04a8-0b3b-46a2-93e8-1fa4e8e4b6c5" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 
 ### 스케치북 삭제
 <p align="center">
-<img src="/uploads/543b0ae149242c10ae79132d7b648b43/스케치북_삭제.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/69eb99fd-ff15-4def-88fc-606385ba0c85" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 스케치북 이름 수정
 <p align="center">
-<img src="/uploads/4d3deddaeda4e5176ff095611108c641/스케치북_이름_변경.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c5bf4bd1-4e0b-410c-82f8-bfd92d521cd5" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 스케치북 검색
 <p align="center">
-<img src="/uploads/2762210328f480ad265960c99abaf12f/스케치북_검색.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/58f5bf4c-6e5c-4415-ac4f-02f61331bf09" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 스케치북 공개 여부 설정
 <p align="center">
-<img src="/uploads/ab593056e3fbfe1c7260a5ec0cff38e4/스케치북_공겨_여부_설정.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/ef9d0a0a-9115-4194-8e98-b909f8d71795" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 친구 추가
 <p align="center">
-<img src="/uploads/e66d4cab910ccc3ded5ab746c6e7142e/친구추가.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/87a3df23-cc3f-4d0f-a3af-35335ec86e32" width="30%" height="30%"/>
 </p>
 &nbsp;
 
 ### 즐겨찾기 등록
 <p align="center">
-<img src="/uploads/9f44596f4d4f190e7ecd64449d241909/즐겨찾기_등록_및_삭제.gif" width="30%" height="30%"/>
+<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/99da3418-08f4-4495-baac-889ebdcf8faa" width="30%" height="30%"/>
 </p>
 &nbsp;
 
