@@ -51,17 +51,19 @@
 
 ## **🧾 기능 소개 및 서비스 화면**
 
-|카카오 로그인|라인 로그인|캐릭터 그리기|편지 작성|편지 확인|비회원 편지 작성|
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|![카카오 로그인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0272ee20-16ec-4947-9e54-50a2adf5ed2e)|![라인 로그인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/bf34aae3-0eeb-4617-8b5f-dcfb912f9c34)|![캐릭터 그리기](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/6d97647e-8ec2-4f6b-a428-e740849d34ac)|![편지 작성](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/b9caf6ec-7da0-4867-87ad-1938914a30d2)|![편지 확인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0eaed0e9-709c-40f1-9b09-dc0fe28d4702)|![비회원 편지 작성](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/36c6c5cc-9ca9-48fe-82a6-ee01134b7a03)|
+|카카오 로그인|라인 로그인|캐릭터 그리기|친구 추가|즐겨찾기 등록|
+|:----:|:----:|:----:|:----:|:----:|
+|![카카오 로그인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0272ee20-16ec-4947-9e54-50a2adf5ed2e)|![라인 로그인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/bf34aae3-0eeb-4617-8b5f-dcfb912f9c34)|![캐릭터 그리기](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/6d97647e-8ec2-4f6b-a428-e740849d34ac)|![친구 추가](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/87a3df23-cc3f-4d0f-a3af-35335ec86e32)|![즐겨찾기 등록](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/99da3418-08f4-4495-baac-889ebdcf8faa)|
 
-|답장하기|스케치북 삭제|스케치북 이름 수정|스케치북 검색|스케치북 공개 여부 설정|친구 추가|즐겨찾기 등록|
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|![답장하기](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/d32b04a8-0b3b-46a2-93e8-1fa4e8e4b6c5)|![스케치북 삭제](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/69eb99fd-ff15-4def-88fc-606385ba0c85)|![스케치북 이름 수정](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c5bf4bd1-4e0b-410c-82f8-bfd92d521cd5)|![스케치북 검색](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/58f5bf4c-6e5c-4415-ac4f-02f61331bf09)|![스케치북 공개 여부 설정](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/ef9d0a0a-9115-4194-8e98-b909f8d71795)|![친구 추가](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/87a3df23-cc3f-4d0f-a3af-35335ec86e32)|![즐겨찾기 등록](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/99da3418-08f4-4495-baac-889ebdcf8faa)|
+|편지 작성|편지 확인|비회원 편지 작성|답장하기|
+|:----:|:----:|:----:|:----:|
+|![편지 작성](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/b9caf6ec-7da0-4867-87ad-1938914a30d2)|![편지 확인](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0eaed0e9-709c-40f1-9b09-dc0fe28d4702)|![비회원 편지 작성](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/36c6c5cc-9ca9-48fe-82a6-ee01134b7a03)|![답장하기](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/d32b04a8-0b3b-46a2-93e8-1fa4e8e4b6c5)|
 
+|스케치북 삭제|스케치북 이름 수정|스케치북 검색|스케치북 공개 여부 설정|
+|:----:|:----:|:----:|:----:|
+|![스케치북 삭제](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/69eb99fd-ff15-4def-88fc-606385ba0c85)|![스케치북 이름 수정](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c5bf4bd1-4e0b-410c-82f8-bfd92d521cd5)|![스케치북 검색](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/58f5bf4c-6e5c-4415-ac4f-02f61331bf09)|![스케치북 공개 여부 설정](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/ef9d0a0a-9115-4194-8e98-b909f8d71795)|
 
-
-### 카카오, 라인 로그인
+<!--### 카카오, 라인 로그인
 <p align="center">
 <img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0272ee20-16ec-4947-9e54-50a2adf5ed2e" width="30%" height="30%"/>
 <img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/bf34aae3-0eeb-4617-8b5f-dcfb912f9c34" width="30%" height="30%"/>
@@ -133,7 +135,7 @@
 <p align="center">
 <img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/99da3418-08f4-4495-baac-889ebdcf8faa" width="30%" height="30%"/>
 </p>
-&nbsp;
+&nbsp;-->
 
 
 ## ✅ 활용 기술 및 설명
