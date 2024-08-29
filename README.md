@@ -46,7 +46,7 @@
 
 
 ## 📈 ERD
-![ERD](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/7c4a6270-df3e-4150-abd1-c07437ca3dd4){: width="70%" height="70%"}
+![ERD](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/7c4a6270-df3e-4150-abd1-c07437ca3dd4)
 &nbsp;
 
 ## **🧾 기능 소개 및 서비스 화면**
