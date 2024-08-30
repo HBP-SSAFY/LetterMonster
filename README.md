@@ -20,16 +20,10 @@
 
 &nbsp;
 
-## **💑 멤버 소개**
-![멤버소개](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c9c525df-2545-41ef-9ccb-4440ad057f62)
-
-
-&nbsp;
-
 ## **⚙️ 기술 스택**
 
-| | |
-| --- | --- |
+| Parts | Tech Skills |
+| :---: | :---: |
 | Back-end | <img src="https://camo.githubusercontent.com/70150d1d5c5730348cd0a1242556604dde69a34d8c782783a9c9c85cf1bf9480/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://camo.githubusercontent.com/675fd3d1f8c31582ae756d6fa6fd47933ad69eaad062d133df81481b4ac74f71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d4a534f4e2057656220546f6b656e73266c6f676f436f6c6f723d7768697465"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://camo.githubusercontent.com/d897096e4f73c59d79fdb319df897aa5cab74fa4f25d21c3daf9794aeb295817/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f477261646c652d4337314133363f7374796c653d666c61742d737175617265266c6f676f3d477261646c65266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>|
 | Front-end | <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>|
 | AI | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Animated Drawings-black?style=flat-square&logoColor=white">|
@@ -59,80 +53,7 @@
 |친구 추가|편지 답장|스케치북 삭제|스케치북명 수정|스케치북 검색|스케치북 공개 설정|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/69eb99fd-ff15-4def-88fc-606385ba0c85" width="100" height="200"/>|<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c5bf4bd1-4e0b-410c-82f8-bfd92d521cd5" width="100" height="200"/>|<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/58f5bf4c-6e5c-4415-ac4f-02f61331bf09" width="100" height="200"/>|<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/ef9d0a0a-9115-4194-8e98-b909f8d71795" width="100" height="200"/>|<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/36c6c5cc-9ca9-48fe-82a6-ee01134b7a03" width="100" height="200"/>|<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/d32b04a8-0b3b-46a2-93e8-1fa4e8e4b6c5" width="100" height="200"/>|
-
-<!--### 카카오, 라인 로그인
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0272ee20-16ec-4947-9e54-50a2adf5ed2e" width="30%" height="30%"/>
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/bf34aae3-0eeb-4617-8b5f-dcfb912f9c34" width="30%" height="30%"/>
-</p>
 &nbsp;
-
-### 캐릭터 그리기
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/6d97647e-8ec2-4f6b-a428-e740849d34ac" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 편지 작성
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/b9caf6ec-7da0-4867-87ad-1938914a30d2" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 편지 확인
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/0eaed0e9-709c-40f1-9b09-dc0fe28d4702" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 비회원 편지 작성
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/36c6c5cc-9ca9-48fe-82a6-ee01134b7a03" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 답장하기
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/d32b04a8-0b3b-46a2-93e8-1fa4e8e4b6c5" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-
-### 스케치북 삭제
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/69eb99fd-ff15-4def-88fc-606385ba0c85" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 스케치북 이름 수정
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c5bf4bd1-4e0b-410c-82f8-bfd92d521cd5" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 스케치북 검색
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/58f5bf4c-6e5c-4415-ac4f-02f61331bf09" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 스케치북 공개 여부 설정
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/ef9d0a0a-9115-4194-8e98-b909f8d71795" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 친구 추가
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/87a3df23-cc3f-4d0f-a3af-35335ec86e32" width="30%" height="30%"/>
-</p>
-&nbsp;
-
-### 즐겨찾기 등록
-<p align="center">
-<img src="https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/99da3418-08f4-4495-baac-889ebdcf8faa" width="30%" height="30%"/>
-</p>
-&nbsp;-->
 
 
 ## ✅ 활용 기술 및 설명
@@ -207,6 +128,10 @@ release브랜치에 merge하는 방식으로 아키텍쳐 설계
 - EntityManager를 통해 객체를 관리함으로써 명시적인 **SQL작성 없이도 데이터베이스 작업 수행** 가능
 - DB종류를 변경하는것이 기존 SQL mapper에 비해 쉬움
 
+&nbsp;
+
+## **💑 멤버 소개**
+![멤버소개](https://github.com/HBP-SSAFY/LetterMonster/assets/72910402/c9c525df-2545-41ef-9ccb-4440ad057f62)
 
 &nbsp;
 
